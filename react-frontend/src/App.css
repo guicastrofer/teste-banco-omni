@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.form-group {
+  width:20%;
+}
+
+
+.form-group-codigo {
+  position: absolute;
+  left: 400px;
+  top: 100px;
+}
+
+.form-group-nome {
+  position: absolute;
+  left: 750px;
+  top: 100px;
+}
+
+.form-group-local {
+  position: absolute;
+  left: 400px;
+  top: 200px;
+}
+
+.form-group-cidade {
+  position: absolute;
+  left: 750px;
+  top: 200px;
+}
+
+.form-group-estado {
+  position: absolute;
+  left: 400px;
+  width:66%;
+  top: 300px;
+}
+
+.form-group-diretoria {
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
+
+.row {
+  position: absolute;
+  left: 400px;
+  top: 550px;
+}
+
+.btn-primary{
+  position: absolute;
+  left: 810px;
+  top: 500px;
+}
+
+.rectangle {
+  display: inline-block;
+  width: 400px;
+  height: 100px;
+  background: whitesmoke;
+}
+
+.radio-button-eis {
+  position: absolute;
+  left: 400px;
+  top: 400px;
+  padding-left: 10px;
+}
+
+.radio-button-rec {
+  position: absolute;
+  left: 470px;
+  top: 400px;
+  padding-left: 10px;
+}
+.radio-button-neg {
+  position: absolute;
+  left: 600px;
+  top: 400px;
+  padding-left: 10px;
+}
+
+.label-diretoria {
+  position: absolute;
+  left: 400px;
+  top: 375px;
+}
