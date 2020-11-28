@@ -1,12 +1,4 @@
-# Teste Java #
-
-
-De acordo com as orientações abaixo, desenvolva um sistema web. 
-
-- Utilize este repositório para armazenar seus códigos-fonte.
-- A aplicação deverá ser funcional.
-- Você deverá apresentar sua solução na entrevista.
-- Contato para dúvidas: eloi.mendes@omni.com.br ou claudio@omni.com.br
+# Case banco Omni com aplicação Full Stack #
 
 ## Tecnologias ##
 
