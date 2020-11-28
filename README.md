@@ -1,4 +1,4 @@
-# Case banco Omni com aplicação Full Stack #
+# Case do Banco Omni referente a desenvolvimento de uma aplicação Full Stack #
 
 ## Tecnologias ##
 
