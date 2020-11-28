@@ -4,9 +4,9 @@
 
 - **Java**: OPENJDK_11
 - **SPRING BOOT**: versão 2.3.3
-- **Banco de dados**: utilize um banco relacional (Oracle, PostgreSQL, MySQL)
-- **Front**: livre escolha
-- **Build tool**: Maven ou Gradle
+- **Banco de dados**: H2 Database
+- **Front**: React
+- **Build tool**: Maven
 
 ## Camadas
 
